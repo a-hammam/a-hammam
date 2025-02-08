@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahmed Hammam
-- 👀 I’m interested in Cloud technologies
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Web projects
+- 👀 I’m interested in Data Analytics
+- 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me ahmed.moo.hamam@gmail.com
 
 <!---
